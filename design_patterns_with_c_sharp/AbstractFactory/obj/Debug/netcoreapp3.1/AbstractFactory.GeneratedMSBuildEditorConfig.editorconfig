@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AbstractFactory
+build_property.ProjectDir = C:\projects\design_patterns_with_c_sharp\branchs\abstract_factory\design_patterns_with_c_sharp\AbstractFactory\

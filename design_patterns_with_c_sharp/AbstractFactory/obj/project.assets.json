@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\design_patterns_with_c_sharp\\branchs\\abstract_factory\\design_patterns_with_c_sharp\\FactoryMethod\\FactoryMethod.csproj",
-      "projectName": "FactoryMethod",
-      "projectPath": "C:\\projects\\design_patterns_with_c_sharp\\branchs\\abstract_factory\\design_patterns_with_c_sharp\\FactoryMethod\\FactoryMethod.csproj",
+      "projectUniqueName": "C:\\projects\\design_patterns_with_c_sharp\\branchs\\abstract_factory\\design_patterns_with_c_sharp\\AbstractFactory\\AbstractFactory.csproj",
+      "projectName": "AbstractFactory",
+      "projectPath": "C:\\projects\\design_patterns_with_c_sharp\\branchs\\abstract_factory\\design_patterns_with_c_sharp\\AbstractFactory\\AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\design_patterns_with_c_sharp\\branchs\\abstract_factory\\design_patterns_with_c_sharp\\FactoryMethod\\obj\\",
+      "outputPath": "C:\\projects\\design_patterns_with_c_sharp\\branchs\\abstract_factory\\design_patterns_with_c_sharp\\AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
