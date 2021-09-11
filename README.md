@@ -6,3 +6,6 @@ The purpose of this pattern is to create a "factory" of classes that dynamically
 
 # Abstract Factory
 With this pattern we are able to use a flexible algorithm capable of creating ("manufacturing") according to specific compositions Different Types of Entities
+
+# Singleton
+The purpose of this pattern is to ensure that only one instance of a class is used.
