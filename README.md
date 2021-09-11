@@ -9,3 +9,6 @@ With this pattern we are able to use a flexible algorithm capable of creating ("
 
 # Singleton
 The purpose of this pattern is to ensure that only one instance of a class is used.
+
+# Builder
+The intent of this pattern is to separate the construction of a complex object from its representation so that the same construction process can create different representations.
