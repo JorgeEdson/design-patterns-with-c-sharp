@@ -1,0 +1,14 @@
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.AssemblyReference.cache
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\projects\design_patterns_with_c_sharp\branchs\builder\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
