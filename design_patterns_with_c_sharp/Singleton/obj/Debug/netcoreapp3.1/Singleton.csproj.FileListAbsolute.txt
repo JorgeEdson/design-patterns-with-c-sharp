@@ -12,3 +12,17 @@ C:\projects\design_patterns_with_c_sharp\branchs\singleton\design_patterns_with_
 C:\projects\design_patterns_with_c_sharp\branchs\singleton\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
 C:\projects\design_patterns_with_c_sharp\branchs\singleton\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
 C:\projects\design_patterns_with_c_sharp\branchs\singleton\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.AssemblyReference.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
