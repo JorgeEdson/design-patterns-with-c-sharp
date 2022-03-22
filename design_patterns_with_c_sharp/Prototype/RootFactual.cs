@@ -21,8 +21,5 @@ namespace Prototype
             return this.MemberwiseClone() as Root;
             throw new NotImplementedException();
         }
-
-
-
     }
 }
