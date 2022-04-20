@@ -1,0 +1,14 @@
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.AssemblyReference.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\obj\Debug\netcoreapp3.1\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache
