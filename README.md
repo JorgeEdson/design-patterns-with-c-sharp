@@ -9,5 +9,5 @@ In this repository I'm demonstrating the main design patterns using the c# langu
 
 # Structure Patterns
 - **Adapter:** This pattern makes it possible to adapt the use of the same methods of different classes.
-- **Flyweight:** This pattern aims to improve performance by sharing similar characteristics without the need to instantiate new objects.
+- **Flyweight:** This pattern improves performance by sharing similar characteristics without the need to instantiate new objects.
 - **Bridge:** This pattern allows the development of objects that compose this hierarchy independently of each other. Decouple an abstraction from its implementation so the two can vary independently
