@@ -1,0 +1,14 @@
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.AssemblyReference.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\obj\Debug\netcoreapp3.1\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
