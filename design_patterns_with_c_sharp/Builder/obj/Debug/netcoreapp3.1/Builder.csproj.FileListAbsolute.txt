@@ -18,7 +18,6 @@ C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\des
 C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
 C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Builder\bin\Debug\netcoreapp3.1\Builder.dll
 C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
-C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.AssemblyReference.cache
 C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.GeneratedMSBuildEditorConfig.editorconfig
 C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
 C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
