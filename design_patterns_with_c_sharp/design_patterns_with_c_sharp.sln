@@ -25,6 +25,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{A9D14E83-FF29-4A76-B8E3-85E55A3C111F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavior", "Behavior", "{C37C14B9-C959-4C95-B67F-FDFC8E818DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{D9182B97-01C2-4D65-8E25-5C1296F6BAFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +71,10 @@ Global
 		{A9D14E83-FF29-4A76-B8E3-85E55A3C111F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9D14E83-FF29-4A76-B8E3-85E55A3C111F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9D14E83-FF29-4A76-B8E3-85E55A3C111F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9182B97-01C2-4D65-8E25-5C1296F6BAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9182B97-01C2-4D65-8E25-5C1296F6BAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9182B97-01C2-4D65-8E25-5C1296F6BAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9182B97-01C2-4D65-8E25-5C1296F6BAFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +89,7 @@ Global
 		{BC1A21FD-C841-4718-BF7B-5314FD2F0912} = {E5CD9DE9-B0EB-41C4-8281-C97DD0542CDE}
 		{DB3A2BEF-BE79-44A6-9F19-878092F0E886} = {E5CD9DE9-B0EB-41C4-8281-C97DD0542CDE}
 		{A9D14E83-FF29-4A76-B8E3-85E55A3C111F} = {E5CD9DE9-B0EB-41C4-8281-C97DD0542CDE}
+		{D9182B97-01C2-4D65-8E25-5C1296F6BAFA} = {C37C14B9-C959-4C95-B67F-FDFC8E818DC4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {73C33F32-4177-48A2-A532-0060700F0ADF}
