@@ -12,3 +12,4 @@ In this repository I'm demonstrating the main design patterns using the c# langu
 - **Flyweight:** This pattern improves performance by sharing similar characteristics without the need to instantiate new objects.
 - **Bridge:** This pattern allows the development of objects that compose this hierarchy independently of each other. Decouple an abstraction from its implementation so the two can vary independently
 - **Composite:** Compose objects into tree structures to represent part-whole hierarchies. Allows customers to treat individual objects and object compositions uniformly
+- **Decorator:** Attach additional responsabilities to an object dynamically. Provide a flexible alternative to sub class for extending functionality
