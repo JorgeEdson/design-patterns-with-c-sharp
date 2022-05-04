@@ -1,0 +1,14 @@
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.AssemblyReference.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\obj\Debug\netcoreapp3.1\Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache
