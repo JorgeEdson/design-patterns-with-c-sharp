@@ -1,0 +1,14 @@
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\projects\GitHub\design-patterns-with-c-sharp\design-patterns-with-c-sharp\design_patterns_with_c_sharp\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
